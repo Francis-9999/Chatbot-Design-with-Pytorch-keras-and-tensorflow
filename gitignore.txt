@@ -1,0 +1,3 @@
+"C:\Users\HP\PYTHON CLASS\chatbot_DS\.conda\Lib"
+
+"C:\Users\HP\PYTHON CLASS\chatbot_DS\.conda\Library"
